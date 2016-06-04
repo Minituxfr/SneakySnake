@@ -7,26 +7,22 @@
 
         <div class="row">
             <div class="col-sm-8">
-                <h2>What We Do</h2>
-                <p>Introduce the visitor to the business using clear, informative text. Use well-targeted keywords within your sentences to make sure search engines can find the business.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et molestiae similique eligendi reiciendis sunt distinctio odit? Quia, neque, ipsa, adipisci quisquam ullam deserunt accusantium illo iste exercitationem nemo voluptates asperiores.</p>
+                <h2>Sneaky Snake</h2>
+                <p>Bienvenue sur le site officiel de Sneaky Snake, un jeu de Snake développé en Java.</p>
+                <p>Si vous voulez avoir davantage d'informations à propos de ce jeu, nous vous invitons à cliquer sur l'onglet "à propos" de la barre de navigation.</p>
                 <p>
-                    <a class="btn btn-default btn-lg" href="#">Call to Action &raquo;</a>
+                    <h3><b>Bonne visite !</b></h3>
                 </p>
             </div>
             <div class="col-sm-4">
-                <h2>Contact Us</h2>
+                <h2>Etat du jeu</h2>
                 <address>
-                    <strong>Start Bootstrap</strong>
-                    <br>3481 Melrose Place
-                    <br>Beverly Hills, CA 90210
-                    <br>
+                    <br><strong>Version : </strong>1.0
+                    <br><strong>Statut :  </strong><b class="label label-warning"> En développement</b></br>
+
+                   <br><a type="button" class="btn btn-success disabled" href="download.php">Télécharger</a>
                 </address>
-                <address>
-                    <abbr title="Phone">P:</abbr>(123) 456-7890
-                    <br>
-                    <abbr title="Email">E:</abbr> <a href="mailto:#">name@example.com</a>
-                </address>
+              
             </div>
         </div>
         <!-- /.row -->
@@ -36,18 +32,18 @@
         <div class="row">
             <div class="col-sm-4">
                 <img class="img-circle img-responsive img-center" src="img/multi_platform.jpg" width=300 alt="">
-                <h2>Ca marche partout !</h2>
-                <p>These marketing boxes are a great place to put some information. These can contain summaries of what the company does, promotional information, or anything else that is relevant to the company. These will usually be below-the-fold.</p>
+                <h2>Multi-plateformes</h2>
+                <p>Utilisateurs de Windows, Linux, ou Mac OSX, nous avons pensé à vous tous ! Le jeu est compatible (ou le sera prochainement) sur ces trois plateformes.</p>
             </div>
             <div class="col-sm-4">
                 <img class="img-circle img-responsive img-center" src="img/open_source.jpg" width=300 alt="">
-                <h2>C'pas cher !</h2>
-                <p>The images are set to be circular and responsive. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+                <h2>Un jeu libre !</h2>
+                <p>Quelque chose ne vous plait pas dans ce jeu ? Vous voudriez reprendre sa base et le recréer totalement ? Libre à vous d'epxloiter notre code disponible sur le Github du projet, et de le modifier comme bon vous semble !</p>
             </div>
             <div class="col-sm-4">
                 <img class="img-circle img-responsive img-center" src="img/java.jpg" width=300 alt="">
-                <h2>JFrame, remet nous des glaçons</h2>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+                <h2>Développé en Java</h2>
+                <p>La puissance du langage de programmation Java, associée aux librairies Java Swing et awt, nous ont permis de développer rapidement un jeu fonctionnel et complet.</p>
             </div>
         </div>
         <!-- /.row -->

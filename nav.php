@@ -15,7 +15,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">A propos</a>
+                        <a href="about.php">A propos</a>
                     </li>
                     <li>
                         <a href="download.php">Télécharger</a>

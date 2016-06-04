@@ -1,7 +1,7 @@
         <!-- Footer -->
         <footer>
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12 text-center">
                     <p>Copyright &copy; 2016 Risser, Filippi, Delacote, De Vita, Pizard, Demesy</p>
                 </div>
             </div>

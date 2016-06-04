@@ -1,3 +1,6 @@
 #fondgris { background-color:#F9F9F9; }
 
 #border-black { border-color:#C9C9C9; }
+#img-staff { border-style: solid;
+			border-width: 1px;
+			border-color:black; }

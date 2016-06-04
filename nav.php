@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#"><img src="img/icon.png" width=25/></a>
+                <a class="navbar-brand" href="index.php"><img src="img/icon.png" width=25/></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -24,7 +24,7 @@
                         <a href="#">Meilleurs scores</a>
                     </li>
                     <li>
-                        <a href="#">Github</a>
+                        <a href="https://github.com/Minituxfr/SneakySnake">Github</a>
                     </li>
                    
                 </ul>

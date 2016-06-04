@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" type="image/x-icon" href="img/snake_black.png">
 
-    <title>The sneaky snake</title>
+    
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

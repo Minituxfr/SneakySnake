@@ -1,5 +1,15 @@
 <?php include('head.php'); ?>
 <?php include('nav.php'); ?>
+<title>The sneaky snake</title>
+  <header class="business-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="tagline">The sneaky snake</h1>
+                </div>
+            </div>
+        </div>
+    </header>
     <!-- Page Content -->
     <div class="container">
 
@@ -9,7 +19,7 @@
             <div class="col-sm-8">
                 <h2>Sneaky Snake</h2>
                 <p>Bienvenue sur le site officiel de Sneaky Snake, un jeu de Snake développé en Java.</p>
-                <p>Si vous voulez avoir davantage d'informations à propos de ce jeu, nous vous invitons à cliquer sur l'onglet "à propos" de la barre de navigation.</p>
+                <p>Si vous voulez avoir davantage d'informations à propos de ce jeu, nous vous invitons à cliquer sur l'onglet "A propos" de la barre de navigation.</p>
                 <p>
                     <h3><b>Bonne visite !</b></h3>
                 </p>

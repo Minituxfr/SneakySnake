@@ -18,7 +18,7 @@
                         <a href="#">A propos</a>
                     </li>
                     <li>
-                        <a href="#">Télécharger</a>
+                        <a href="download.php">Télécharger</a>
                     </li>
                      <li>
                         <a href="#">Meilleurs scores</a>
@@ -36,12 +36,4 @@
 
     <!-- Image Background Page Header -->
     <!-- Note: The background image is set within the business-casual.css file. -->
-    <header class="business-header">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h1 class="tagline">The sneaky snake</h1>
-                </div>
-            </div>
-        </div>
-    </header>
+  

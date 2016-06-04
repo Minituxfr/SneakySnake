@@ -3,7 +3,7 @@
     <!-- Page Content -->
     <div class="container">
 
-        <hr>
+        <hr id="border-black">
 
         <div class="row">
             <div class="col-sm-8">
@@ -27,7 +27,7 @@
         </div>
         <!-- /.row -->
 
-        <hr>
+        <hr id="border-black">
 
         <div class="row">
             <div class="col-sm-4">
@@ -48,6 +48,6 @@
         </div>
         <!-- /.row -->
 
-        <hr>
+        <hr id="border-black">
 <?php include('footer.php'); ?>
 
